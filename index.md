@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
+[<img src="DDImage.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
 My write up for a brief project Analyzing iFood's(DoorDash equivalent in Brazil) data, using Excel 
 
 
