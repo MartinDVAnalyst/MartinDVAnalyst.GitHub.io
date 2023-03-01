@@ -15,7 +15,6 @@ My write up for a brief project using SQL. In this project, I use data from the 
 [<img src="images/DDImage.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
 My write up for a brief project Analyzing iFood's(DoorDash equivalent in Brazil) data, using Excel 
 
-
 ---
 #### [Education Project](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
 [<img src="images/eduIMG.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
@@ -25,14 +24,19 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+#### [FitBit Analysis in R](https://www.kaggle.com/code/martindiazvaldes/google-capstone-project-bellabeat)
+[<img src="images/fitbitR.png?raw=true"/>](https://www.kaggle.com/code/martindiazvaldes/google-capstone-project-bellabeat)
+How are FitBit customers using their fitbits? 
+What Insights can be found in order to compete against FitBit? 
+In this project I do a deep dive on some FitBit data using R.
 
-### Category Name 2
+### Project List
 
-###- [Project 1 Title](http://example.com/)
-###- [Project 2 Title](http://example.com/)
-###- [Project 3 Title](http://example.com/)
-###- [Project 4 Title](http://example.com/)
-###- [Project 5 Title](http://example.com/)
+- [World Bank SQL](https://www.linkedin.com/pulse/world-bank-data-analysis-w-sql-martin-diaz-valdes/?trackingId=U8K2n1Tp5JfsV%2FwLQHPv6w%3D%3D)
+- [DoorDash-ish Excel](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
+- [Education Tableau](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
+- [FitBit in R](https://www.kaggle.com/code/martindiazvaldes/google-capstone-project-bellabeat)
+
 
 ---
 
