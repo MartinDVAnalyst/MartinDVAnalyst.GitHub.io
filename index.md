@@ -18,7 +18,7 @@ My write up for a brief project Analyzing iFood's(DoorDash equivalent in Brazil)
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
-[<img src="eduIMG.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
+[<img src="images/eduIMG.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
