@@ -25,7 +25,7 @@ What are the top math schools in the state?
 
 ---
 #### [FitBit Analysis in R](https://www.kaggle.com/code/martindiazvaldes/google-capstone-project-bellabeat)
-[<img src="images/fitbitR.png?raw=true"/>](https://www.kaggle.com/code/martindiazvaldes/google-capstone-project-bellabeat)
+[<img src="images/fitbitR.jpg?raw=true"/>](https://www.kaggle.com/code/martindiazvaldes/google-capstone-project-bellabeat)
 How are FitBit customers using their fitbits? 
 What Insights can be found in order to compete against FitBit? 
 In this project I do a deep dive on some FitBit data using R.
