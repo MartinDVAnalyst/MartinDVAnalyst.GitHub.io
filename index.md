@@ -11,12 +11,12 @@
 My write up for a brief project using SQL. In this project, I use data from the World Bank, which is freely and publicly available.
 
 ---
-#### [DoorDash-ish Project](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
+#### [DoorDash-ish Project Excel](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
 [<img src="images/DDImage.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
 My write up for a brief project Analyzing iFood's(DoorDash equivalent in Brazil) data, using Excel 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
+#### [Education Project in Tableau](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
 [<img src="images/eduIMG.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
