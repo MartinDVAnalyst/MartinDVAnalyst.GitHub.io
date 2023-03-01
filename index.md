@@ -6,9 +6,9 @@
 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
-[<img src="images/DDImage.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
-My write up for a brief project Analyzing iFood's(DoorDash equivalent in Brazil) data, using Excel 
+#### [External Link Project](https://www.linkedin.com/pulse/world-bank-data-analysis-w-sql-martin-diaz-valdes/?trackingId=U8K2n1Tp5JfsV%2FwLQHPv6w%3D%3D)
+[<img src="images/sqlbank.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-data-analysis-w-sql-martin-diaz-valdes/?trackingId=U8K2n1Tp5JfsV%2FwLQHPv6w%3D%3D)
+My write up for a brief project using SQL. In this project, I use data from the World Bank, which is freely and publicly available.
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
@@ -18,7 +18,7 @@ My write up for a brief project Analyzing iFood's(DoorDash equivalent in Brazil)
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="eduIMG.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
