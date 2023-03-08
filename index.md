@@ -5,7 +5,7 @@
 ### Learn About My Projects
 ---
 #### [Healthcare Analysis Project in SQL](https://www.linkedin.com/pulse/eh-whats-up-doc-martin-diaz-valdes/)
-[<img src="images/sqlbank.png?raw=true"/>](https://www.linkedin.com/pulse/eh-whats-up-doc-martin-diaz-valdes/)
+[<img src="images/healthcare sql.png?raw=true"/>](https://www.linkedin.com/pulse/eh-whats-up-doc-martin-diaz-valdes/)
 Using more advanced SQL, I analyze hospital data.
 
 ---
@@ -34,7 +34,7 @@ What Insights can be found in order to compete against FitBit?
 In this project I do a deep dive on some FitBit data using R.
 
 ### Project List
-
+- [Hospital SQL](https://www.linkedin.com/pulse/eh-whats-up-doc-martin-diaz-valdes/)
 - [World Bank SQL](https://www.linkedin.com/pulse/world-bank-data-analysis-w-sql-martin-diaz-valdes/?trackingId=U8K2n1Tp5JfsV%2FwLQHPv6w%3D%3D)
 - [DoorDash-ish Excel](https://www.linkedin.com/pulse/analyzing-doordash-ish-sales-data-martin-diaz-valdes/)
 - [Education Tableau](https://www.linkedin.com/pulse/analyzing-education-data-using-tableau-martin-diaz-valdes/)
