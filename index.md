@@ -3,7 +3,10 @@
 ---
 
 ### Learn About My Projects
-
+---
+#### [Healthcare Analysis Project in SQL](https://www.linkedin.com/pulse/eh-whats-up-doc-martin-diaz-valdes/)
+[<img src="images/sqlbank.png?raw=true"/>](https://www.linkedin.com/pulse/eh-whats-up-doc-martin-diaz-valdes/)
+Using more advanced SQL, I analyze hospital data.
 
 ---
 #### [World Bank SQL Project](https://www.linkedin.com/pulse/world-bank-data-analysis-w-sql-martin-diaz-valdes/?trackingId=U8K2n1Tp5JfsV%2FwLQHPv6w%3D%3D)
